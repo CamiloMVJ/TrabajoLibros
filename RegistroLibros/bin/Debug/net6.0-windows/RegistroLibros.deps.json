@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RegistroLibros/1.0.0": {
+        "dependencies": {
+          "PruebaLibro": "1.0.0"
+        },
+        "runtime": {
+          "RegistroLibros.dll": {}
+        }
+      },
+      "PruebaLibro/1.0.0": {
+        "runtime": {
+          "PruebaLibro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RegistroLibros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PruebaLibro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

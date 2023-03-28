@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-libros",
+      "appliesTo": "RegistroLibros/bin/Debug/net6.0-windows/libros.json",
+      "type": "launch"
+    }
+  ]
+}
